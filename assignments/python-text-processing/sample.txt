@@ -1,0 +1,3 @@
+Python makes text processing fun.
+Text files help us practice Python.
+Practice makes progress.

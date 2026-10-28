@@ -58,6 +58,41 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "building-rest-apis-fastapi",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Build a REST API with FastAPI, Pydantic validation, CRUD endpoints, and appropriate HTTP status codes.",
+      "path": "assignments/building-rest-apis-fastapi",
+      "dueDate": "2026-11-04"
+    },
+    {
+      "id": "python-text-processing",
+      "title": "Python Text Processing",
+      "description": "Practice strings, file I/O, and text manipulation by building a text analyzer and saving transformed text and reports.",
+      "path": "assignments/python-text-processing",
+      "dueDate": "2026-11-04",
+      "attachments": [
+        {
+          "name": "Sample Text",
+          "file": "sample.txt",
+          "type": "txt"
+        }
+      ]
+    },
+    {
+      "id": "python-data-visualization",
+      "title": "Python Data Visualization",
+      "description": "Create and export line and bar charts with Matplotlib or Plotly, compare school club attendance, and communicate data-driven insights.",
+      "path": "assignments/python-data-visualization",
+      "dueDate": "2026-11-04",
+      "attachments": [
+        {
+          "name": "Club Attendance Dataset",
+          "file": "club-attendance.csv",
+          "type": "csv"
+        }
+      ]
     }
   ]
 }
